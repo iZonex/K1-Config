@@ -28,3 +28,11 @@ Please, ensure the bed is in perfect condition, remove filament, and make sure t
 - **PID for the bed (PID_BED)**
 - **Input Shaper (INPUTSHAPER)**
 - **Leveling (BED_LEVELING)**
+
+## Known Issues:
+
+- Fix error on boot https://www.reddit.com/r/crealityk1/comments/15t6i9b/silence/
+- Fix erasing config on reboot https://github.com/3dprintpt/K1_organized_firmware
+
+
+
