@@ -26,5 +26,5 @@ Please, ensure the bed is in perfect condition, remove filament, and make sure t
 ## Calibration:
 - **PID for the hotend (PID_HOTEND)**
 - **PID for the bed (PID_BED)**
-- **Input Shaper (AUTOTUNE_SHAPERS)**
+- **Input Shaper (INPUTSHAPER)**
 - **Leveling (BED_LEVELING)**
